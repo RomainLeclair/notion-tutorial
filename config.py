@@ -1,4 +1,4 @@
-NOTION_TOKEN="secret_WOMIjh7ophmJn35Rr6N35pP1wrlkYKg9xYF6w9VxWgu"
+NOTION_TOKEN="###"
 DATABASE_ID="5f19fa4ff8f44275b603154bffc78a51"
 
 headers = {
